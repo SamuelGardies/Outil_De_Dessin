@@ -1,0 +1,38 @@
+D:\Université\Cours\Semestre 4\algo\td 1 v3\bin\Debug\net5.0-windows\td 1 v3.exe
+D:\Université\Cours\Semestre 4\algo\td 1 v3\bin\Debug\net5.0-windows\td 1 v3.deps.json
+D:\Université\Cours\Semestre 4\algo\td 1 v3\bin\Debug\net5.0-windows\td 1 v3.runtimeconfig.json
+D:\Université\Cours\Semestre 4\algo\td 1 v3\bin\Debug\net5.0-windows\td 1 v3.runtimeconfig.dev.json
+D:\Université\Cours\Semestre 4\algo\td 1 v3\bin\Debug\net5.0-windows\td 1 v3.dll
+D:\Université\Cours\Semestre 4\algo\td 1 v3\bin\Debug\net5.0-windows\ref\td 1 v3.dll
+D:\Université\Cours\Semestre 4\algo\td 1 v3\bin\Debug\net5.0-windows\td 1 v3.pdb
+D:\Université\Cours\Semestre 4\algo\td 1 v3\obj\Debug\net5.0-windows\td 1 v3.vbprojAssemblyReference.cache
+D:\Université\Cours\Semestre 4\algo\td 1 v3\obj\Debug\net5.0-windows\td_1_v3.Form1.resources
+D:\Université\Cours\Semestre 4\algo\td 1 v3\obj\Debug\net5.0-windows\td 1 v3.vbproj.GenerateResource.cache
+D:\Université\Cours\Semestre 4\algo\td 1 v3\obj\Debug\net5.0-windows\td 1 v3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Université\Cours\Semestre 4\algo\td 1 v3\obj\Debug\net5.0-windows\td 1 v3.AssemblyInfoInputs.cache
+D:\Université\Cours\Semestre 4\algo\td 1 v3\obj\Debug\net5.0-windows\td 1 v3.AssemblyInfo.vb
+D:\Université\Cours\Semestre 4\algo\td 1 v3\obj\Debug\net5.0-windows\td 1 v3.vbproj.CoreCompileInputs.cache
+D:\Université\Cours\Semestre 4\algo\td 1 v3\obj\Debug\net5.0-windows\td 1 v3.dll
+D:\Université\Cours\Semestre 4\algo\td 1 v3\obj\Debug\net5.0-windows\ref\td 1 v3.dll
+D:\Université\Cours\Semestre 4\algo\td 1 v3\obj\Debug\net5.0-windows\td 1 v3.pdb
+D:\Université\Cours\Semestre 4\algo\td 1 v3\obj\Debug\net5.0-windows\td 1 v3.genruntimeconfig.cache
+D:\Université\Cours\Semestre 4\algo\td 1 v3\obj\Debug\net5.0-windows\td_1_v3.Resources.resources
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\bin\Debug\net5.0-windows\td 1 v3.exe
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\bin\Debug\net5.0-windows\td 1 v3.deps.json
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\bin\Debug\net5.0-windows\td 1 v3.runtimeconfig.json
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\bin\Debug\net5.0-windows\td 1 v3.runtimeconfig.dev.json
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\bin\Debug\net5.0-windows\td 1 v3.dll
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\bin\Debug\net5.0-windows\ref\td 1 v3.dll
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\bin\Debug\net5.0-windows\td 1 v3.pdb
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\obj\Debug\net5.0-windows\td 1 v3.vbprojAssemblyReference.cache
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\obj\Debug\net5.0-windows\td_1_v3.Form1.resources
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\obj\Debug\net5.0-windows\td_1_v3.Resources.resources
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\obj\Debug\net5.0-windows\td 1 v3.vbproj.GenerateResource.cache
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\obj\Debug\net5.0-windows\td 1 v3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\obj\Debug\net5.0-windows\td 1 v3.AssemblyInfoInputs.cache
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\obj\Debug\net5.0-windows\td 1 v3.AssemblyInfo.vb
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\obj\Debug\net5.0-windows\td 1 v3.vbproj.CoreCompileInputs.cache
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\obj\Debug\net5.0-windows\td 1 v3.dll
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\obj\Debug\net5.0-windows\ref\td 1 v3.dll
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\obj\Debug\net5.0-windows\td 1 v3.pdb
+D:\Université\Cours\Semestre 4\algo\td 1 v3 (plume)\obj\Debug\net5.0-windows\td 1 v3.genruntimeconfig.cache
